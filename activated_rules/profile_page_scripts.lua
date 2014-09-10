@@ -1,0 +1,1 @@
+/usr/local/owasp-modsecurity/lua/profile_page_scripts.lua
